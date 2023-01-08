@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "Site", 
+            "body": "blog content", 
+            "author": "Mario",
+             "id": 1
+        },
+        {
+            "title": "Web",
+            "body": "blog post", 
+            "author": "Yoshi", 
+            "id": 2
+        },
+        {
+            "title": "Web-Site", 
+            "body": "blog post content", 
+            "author": "Kitara", 
+            "id": 3
+        }
+    ]
+}
